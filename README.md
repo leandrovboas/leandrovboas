@@ -1,8 +1,17 @@
-### Olá Sou o Leandro Vilas Boas
+
+<div align="center">
+    <img align="center" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" height="210em">
+    <h1 align="center">
+      Olá 
+      Sou o Leandro Vilas Boas
+    </h1>
+  </div>
 
 
 - 💻 Atualmente trabalho com desenvolvimento de seoftuare na [Lambda3](https://www.lambda3.com.br/)
 - 📘 Estou estudando <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+</br>
 
 <div align="center">
   <a href="https://github.com/leandrovboas">
@@ -14,9 +23,9 @@
   <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrovboas&theme=tokyonight"/>
 </div>
   
-  ##
+##
   
-  #### Top Tecnologias
+  ### 💻 Top Tecnologias
   
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="lvb-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -30,21 +39,32 @@
   <img align="center" alt="lvb-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+##
   
-  ##
-  
-  #### Top Repositótios
+  ### ⚡ Top Repositótios
+  </br>
 
-
+<div align="center">
 <a href="https://github.com/leandrovboas/portifolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandrovboas&repo=portifolio&theme=tokyonight&show_owner=true" />
 </a>
 <a href="https://github.com/leandrovboas/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=leandrovboas&repo=cli_github_2.0&theme=tokyonight&show_owner=true" />
 </a>
+</div>
+  
+##  
+  
+  ### 🔥 Streak stats
+  <div align="center">
+    <img alt="leandrovboas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrovboas&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  </div>
+  
+##
+  
+  ### 📊 Estatísticas do Github
+   [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br />
-<br />
   
 ##
 
@@ -60,5 +80,6 @@
 <a href="https://www.instagram.com/leandrovboas/">
   <img align="right" alt="Leandrovboas | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
+  
+ 
   

@@ -1,11 +1,22 @@
 
-<div align="center">
-    <img align="center" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" height="210em">
+
+<div >
+    <img align="left" src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" height="210em">
     <h1 align="center">
-      Olá 
-      Sou o Leandro Vilas Boas
-    </h1>
-  </div>
+      Olá sou o Leandro Vilas Boas
+    </h1>  
+</div>
+
+<div align="center">
+    <img align="center" alt="leandro-pic" height="150" style="border-radius:100px;" src="https://media.giphy.com/media/KYRWEsOlLoBrhuEEB1/giphy.gif">
+</div>
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
 - 💻 Atualmente trabalho com desenvolvimento de seoftuare na [Lambda3](https://www.lambda3.com.br/)
@@ -55,12 +66,6 @@
   
 ##  
   
-  ### 🔥 Streak stats
-  <div align="center">
-    <img alt="leandrovboas's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=leandrovboas&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-  </div>
-  
-##
   
   ### 📊 Estatísticas do Github
    [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)

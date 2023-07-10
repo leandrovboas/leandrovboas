@@ -20,7 +20,7 @@
 
 
 - 💻 Atualmente trabalho com desenvolvimento de softuare na [Lambda3](https://www.lambda3.com.br/)
-- 📘 Estou estudando <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+- 📘 Estou estudando <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
 
 </br>
 

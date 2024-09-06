@@ -16,7 +16,7 @@
 </br></br></br></br></br></br></br></br></br></br></br></br></br></br>
 
 - 💻 Atualmente trabalho com desenvolvimento de softuare na [Lambda3](https://www.lambda3.com.br/)
-- 📘 Estou estudando <img align="center" alt="AWS" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
+- 📘 Estou estudando [![My Skills](https://skillicons.dev/icons?i=aws,go&perline=3)](https://skillicons.dev)
 
 
 </br>
